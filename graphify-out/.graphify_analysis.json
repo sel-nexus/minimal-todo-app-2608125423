@@ -1,0 +1,26 @@
+{
+  "communities": {
+    "0": [
+      "frontend_tests_todo_test",
+      "frontend_tests_todo_test_assert",
+      "frontend_tests_todo_test_fs",
+      "frontend_tests_todo_test_html",
+      "frontend_tests_todo_test_path",
+      "frontend_tests_todo_test_preventdefault",
+      "frontend_tests_todo_test_rendereditems",
+      "frontend_tests_todo_test_script",
+      "frontend_tests_todo_test_test",
+      "frontend_tests_todo_test_vm"
+    ],
+    "1": [
+      "frontend_tests_todo_test_createapp",
+      "frontend_tests_todo_test_createelement"
+    ],
+    "2": [
+      "e2e_todo_spec"
+    ],
+    "3": [
+      "playwright_config"
+    ]
+  }
+}
